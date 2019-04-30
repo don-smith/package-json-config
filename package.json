@@ -1,7 +1,7 @@
 {
   "name": "package-json-config",
   "version": "0.1.0",
-  "description": "An npm package that retrieves its config in package.json",
+  "description": "Helping your package save its config in package.json",
   "main": "index.js",
   "scripts": {
     "test": "jest"

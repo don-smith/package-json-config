@@ -42,4 +42,4 @@ module.exports = function () {
 
 ## Documentation
 
-In this repo, you can find a working [example and instructions for how to run it](examples).
+In this repo, you can find a working [example and instructions for how to run it](example).
