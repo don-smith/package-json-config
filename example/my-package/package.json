@@ -1,0 +1,11 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "An npm package that stores its config in package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Don Smith <don@antiantonym.com>",
+  "license": "MIT"
+}

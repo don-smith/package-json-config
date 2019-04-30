@@ -1,0 +1,15 @@
+{
+  "name": "your-app",
+  "version": "1.0.0",
+  "description": "An app that configures and uses my-package",
+  "main": "index.js",
+  "scripts": {
+    "root": "node index",
+    "nested": "node src"
+  },
+  "my-package": {
+    "user": "Mr. Anderson"
+  },
+  "author": "Don Smith <don@antiantonym.com>",
+  "license": "MIT"
+}
