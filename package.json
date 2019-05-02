@@ -1,6 +1,6 @@
 {
   "name": "package-json-config",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Helping your package save its config in package.json",
   "main": "index.js",
   "scripts": {
